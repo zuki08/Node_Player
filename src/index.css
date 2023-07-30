@@ -1,0 +1,58 @@
+#cheese{
+    position: relative;
+    background-color: #abcdef;
+    margin: 3px;
+    border: hidden;
+}
+#mainCont{
+    position: relative;
+    top: 25%;
+}
+#root{
+    width: 100%;
+    height: 90%;
+    position: absolute;
+}
+p{
+    font-family: 'Segoe UI';
+    margin: 5px;
+}
+button{
+    width: 70px;
+    font-size: 13px;
+    flex-direction: row;
+    margin: 2px;
+    border-radius: 10px;
+    border: none;
+}
+.txt{
+    width: 100px;
+    margin: 1px;
+}
+input[type=button]{
+    border-radius: 10px;
+    border:none;
+    margin: 3px;
+}
+input[type=text]{
+    border-radius: 5px;
+    margin: 1px, 2px, 5px;
+    border: none;
+}
+#clickHide{
+    background-color: #abcdef;
+    width: 20px;
+    height: 20px;
+    font-size: 5px;
+}
+#print{
+    font-size: 12px;
+    margin-top: 3px;
+    width: auto;
+}
+#playlist{
+    visibility: hidden;
+    overflow-y: scroll;
+    font-size: 11px;
+    height: 300px;
+}
