@@ -15,7 +15,7 @@ The buttons all have event listeners on them so that they can manipulate the sta
 ### Note: In order for this to function as coded, you should have some audio files on hand and create a `songs.js` file that stores the information like so in the src/ directory:
 
 ```
-// The url property is the path to the file. I recommned storing the files in public/files directory that is created
+// The url property is the path to the file. I recommend storing the files in public/files directory that is created
 
 let song = [ 
     {title: String, artist: String, url: String, id: Number},
