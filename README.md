@@ -34,7 +34,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm init`
+### `npm install`
 
 Downloads all the required packages for the project that is needed to run the react application.
 
